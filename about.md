@@ -8,7 +8,7 @@ Airz is a place where I publish my air quality exploration work.
 
 ### More Information
 
-Vikto Bily  
+Viktor Bily  
 CEO @ MarineProHelp  
 Postgraduate student @ Odessa Maritime Academy  
 Chief Engineer @ Epic Gas  
