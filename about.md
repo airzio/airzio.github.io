@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Airz is a place where I publish my air quality exploration work.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Vikto Bily
+CEO @ MarineProHelp
+Postgraduate student @ Odessa Maritime Academy
+Chief Engineer @ Epic Gas
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bily.viktor@gmail.com](mailto:bily.viktor@gmail.com)
