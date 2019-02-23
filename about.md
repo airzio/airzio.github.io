@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Airz is a place where I publish my air quality exploration work.
+Airz is an air quality exploration zone.
 
-### More Information
+### Author
 
 Viktor Bily  
-CEO @ MarineProHelp  
+CEO @ [MarineProHelp](https://marineprohelp.com)  
 Postgraduate student @ Odessa Maritime Academy  
 Chief Engineer @ Epic Gas  
 
