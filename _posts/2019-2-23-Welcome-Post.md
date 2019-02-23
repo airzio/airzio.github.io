@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introduction
+comments: true
 ---
 
 Welcome to Airz.  
