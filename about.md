@@ -10,7 +10,7 @@ Welcome to Airz - an air quality exploration zone where you can read about venti
 
 Viktor Bily  
 CEO @ [MarineProHelp](https://marineprohelp.com)  
-Postgraduate student @ Odessa Maritime Academy. Researching air quality management and filtration.
+Postgraduate student @ Odessa Maritime Academy. Researching air quality management and filtration.  
 Chief Engineer @ Epic Gas  
 
 ### Contact me
