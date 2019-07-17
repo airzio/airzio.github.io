@@ -10,6 +10,6 @@ Nowadays, the naturally pure air has become luxury privilege not everyone can ge
 
 Carbon Dioxide is just one of many air pollutants, such as Nitrogens Oxides, Carbon monoxide, Sulfur oxides, Particulate matter, Volatile organic compounds, various chemical gases and others.  
 
-Each of the pollutants in the air affects human body in a few ways. Firstly, noxious gases contribute to metabolical stress the body has to withstand. Secondly, pollutants displace oxygen and create the danger of asphyxiation. Test and calculations had shown that increasing the $$CO_2$$ concentration up to 5% (50000 ppm) will reduce the  Oxygen content from 20.9% down to 19.85%. Everyone can remember the experience of a crowded class or conference room.  
+Each of the pollutants in the air affects human body in a few ways. Firstly, noxious gases contribute to metabolical stress the body has to withstand. Secondly, pollutants displace oxygen and create the danger of asphyxiation. For example, calculations had shown that increasing the $$CO_2$$ concentration up to 5% (50000 ppm) will reduces the Oxygen content from 20.9% down to 19.85%.
 
-In my study, I focus on a maintaining the atmosphere of inhabited premises comfort and up to air quality standards.  
+In my study, I focus on a maintaining the atmosphere of inhabited premises comfort and up to air quality standards.
