@@ -12,4 +12,10 @@ Carbon Dioxide is just one of many air pollutants, such as Nitrogens Oxides, Car
 
 Each of the pollutants in the air affects human body in a few ways. Firstly, noxious gases contribute to metabolical stress the body has to withstand. Secondly, pollutants displace oxygen and create the danger of asphyxiation. For example, calculations had shown that increasing the $$CO_2$$ concentration up to 5% (50000 ppm) will reduces the Oxygen content from 20.9% down to 19.85%.
 
+The air purity is the one of air-related factors which are influencing human comfort and health. Temperature, humidity, air flow and air exchange rate are four major air parameters which controlled in air conditioning and ventilation.
+
+The are number of national and international standards and regulations which set requirements for temperature, humidity, air flow and allowed concentrations of various pollutants in the air of inhabitant premisses.
+
+ISO developed a new standard 16000-40 "Indoor air quality management system". It is in the approval stage at the moment.
+
 In my study, I focus on a maintaining the atmosphere of inhabited premises comfort and up to air quality standards.
