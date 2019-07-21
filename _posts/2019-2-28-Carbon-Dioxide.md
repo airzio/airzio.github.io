@@ -18,3 +18,5 @@ Various organizations state standards for $$CO_2$$ concentrations if the indoor 
 - **OSHA** recommends:
   - **PEL** = 10,000 ppm (1%)
   - **STEL** = 30,000 ppm (3%)
+
+Carbon Dioxide sensors normally incorporated in Indoor Air Quality sensors and controllers of air exchange rate.
