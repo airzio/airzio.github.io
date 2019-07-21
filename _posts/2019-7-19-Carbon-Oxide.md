@@ -5,7 +5,7 @@ comments: true
 ---
 
 Carbon oxide ( $$CO$$ ) is extremely dangerous substance to human health and life. It originates from the incomplete combustion of hydrocarbon fuels and some chemical reactions.
-No $$CO$$ should be detected in inhabited premisses at any time. Trapped in the blood flow, carbon oxide reacts with blood hemoglobin preventing. Hemoglobin combined with $$CO$$ is unable to reacting with oxygen and transport it to the body cells.
+No $$CO$$ should be detected in inhabited premisses at any time. Trapped in the blood flow, carbon oxide reacts with blood hemoglobin. Hemoglobin which combined with $$CO$$ is unable to react with oxygen and transport it to the body cells.
 
 Permissible levels of $$CO$$ in the indoor air is very low due to it's toxicity.
 
