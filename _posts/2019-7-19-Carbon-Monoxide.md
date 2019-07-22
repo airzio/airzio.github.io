@@ -10,11 +10,11 @@ No $$CO$$ should be detected in inhabited premisses at any time. Trapped in the 
 Permissible levels of $$CO$$ in the indoor air is very low due to it's toxicity.
 
 - **NIOSH** recommends:
-  - **PEL** = of 35 ppm - a workplace exposure limit - *Time Weighted Average (TWA) for exposure of 8 hours/day, 40 hours/week, for a working lifetime*
+  - **REL** = of 35 ppm - a workplace exposure limit - *Time Weighted Average (TWA) for exposure of 8 hours/day, 40 hours/week, for a working lifetime*
 - **U.S. EPA** recommends:
   - outdoor maximum level of 35 ppm (1 hour average)
   - outdoor maximum level 9 ppm (8 hour averaging)
-- **OSHA** recommends: 
+- **OSHA** recommends:
   - **PEL** =  50 ppm (TWA)
 - **WHO** limits to:
   - 90 ppm (15 minute exposure)
