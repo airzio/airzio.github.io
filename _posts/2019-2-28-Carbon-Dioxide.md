@@ -9,14 +9,31 @@ Humans cant distinguish with their fillings between ambient $$CO_2$$ concentrati
 
 Various organizations state standards for $$CO_2$$ concentrations if the indoor air.
 
-- **ASHRAE** recommends the maximum $$CO_2$$ concentration of 1000 ppm in its standard 62-1989
-- **NIOSH** recommends:
-  - **TLV** = 10,000 ppm (1%) - *maximum concentration of substance for 10-hr work shift at the workplace*
-  - **PEL** = 30,000 ppm (3%) - *highest concentration for any 15-minute period*
-  - **IDHL** = 40000 ppm (4%) - *Immediately Dangerous to Life or Health*
-- **U.S. EPA** recommends the maximum of 1000 ppm for continuous exposure
-- **OSHA** recommends:
+## Regulatory levels
+
+- **OSHA**
+  - 5000 ppm - *highest average concentration for any 8-hours period*
   - **PEL** = 10,000 ppm (1%)
   - **STEL** = 30,000 ppm (3%)
+- **MAK**
+  - 5000 ppm - *highest average concentration for any 8-hours period*
+  - 10000 ppm - *highest average concentration for any 1-hour period*
+
+## Reference levels
+
+- **U.S. EPA**
+  - 1000 ppm - *for continuous exposure*
+- **ASHRAE**
+  - 1000 ppm - *for continuous exposure [standards 62-1989 and 62-1999]*
+- **NIOSH**:
+  - 5000 ppm - *highest average concentration for any 8-hours period*
+  - **TLV** = 10,000 ppm (1%) - *maximum concentration of substance for 10-hours work shift at the workplace*
+  - **PEL** = 30,000 ppm (3%) - *highest average concentration for any 15-minutes period*
+  - **IDHL** = 40,000 ppm (4%) - *Immediately Dangerous to Life or Health*
+- **ACGIH**
+  - 5000 ppm - *highest average concentration for any 8-hours period*
+  - 30,000 ppm - *highest concentration for any 15-minutes period*
+- **Canadian regulations**
+  - 3500 ppm  - *highest average concentration for any 8-hours period*
 
 Carbon Dioxide sensors normally incorporated in Indoor Air Quality sensors and controllers of air exchange rate.
