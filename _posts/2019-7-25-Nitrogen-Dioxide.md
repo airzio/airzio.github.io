@@ -5,11 +5,11 @@ comments: true
 ---
 
 Nitrogen Oxide ( $$NO$$ ) and Nitrogen Dioxide ( $$NO_2$$ ) are often referred as ( $$NO_x$$ ).
-The most widely spread source of ( $$NO_x$$ ) pollution are car engines. Engine makers are obligated to implement ( $$NO_x$$ ) reduction design. In order to minimize ( $$NO_x$$ ) emission, it is important to keep engine tuned up to makers standards and use OEM parts for replacement during repair and overhauls.
+The most widely spread source of $$NO_x$$ pollution are car engines. Engine makers are obligated to implement $$NO_x$$ reduction design. In order to minimize $$NO_x$$ emission, it is important to keep engine tuned up to makers standards and use OEM parts for replacement during repair and overhauls.
 
 The fossil-fueled household appliances used for cooking and heating are the other source of Nitrogen Dioxide.
 
-( $$NO_2$$ ) hits the respiratory system.  May cause illnesses or damage of lung and breathing passages.
+$$NO_2$$ hits the respiratory system.  May cause illnesses or damage of lung and breathing passages.
 When combined with water in the atmosphere, Nitrogen Dioxide forms Nitric acid and contributes to acid rains.
 
 ## Regulatory levels
