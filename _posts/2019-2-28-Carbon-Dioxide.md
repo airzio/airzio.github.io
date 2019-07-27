@@ -11,6 +11,8 @@ Various organizations state standards for $$CO_2$$ concentrations if the indoor 
 
 ## Regulatory levels
 
+### Regulations for industrial environments
+
 - **OSHA**
   - 5000 ppm - *highest average concentration for any 8-hours period*
   - **PEL** = 10,000 ppm (1%)
@@ -19,12 +21,15 @@ Various organizations state standards for $$CO_2$$ concentrations if the indoor 
   - 5000 ppm - *highest average concentration for any 8-hours period*
   - 10000 ppm - *highest average concentration for any 1-hour period*
 
-## Reference levels
+### Outdoor air regulatory levels
 
 - **U.S. EPA**
   - 1000 ppm - *for continuous exposure*
-- **ASHRAE**
-  - 1000 ppm - *for continuous exposure [standards 62-1989 and 62-1999]*
+
+## Reference levels
+
+### Reference levels for industrial environments
+
 - **NIOSH**:
   - 5000 ppm - *highest average concentration for any 8-hours period*
   - **TLV** = 10,000 ppm (1%) - *maximum concentration of substance for 10-hours work shift at the workplace*
@@ -33,6 +38,14 @@ Various organizations state standards for $$CO_2$$ concentrations if the indoor 
 - **ACGIH**
   - 5000 ppm - *highest average concentration for any 8-hours period*
   - 30,000 ppm - *highest concentration for any 15-minutes period*
+
+### General reference levels
+
+- **ASHRAE**
+  - 1000 ppm - *for continuous exposure [standards 62-1989 and 62-1999]*
+
+### Indoor residential reference levels
+
 - **Canadian regulations**
   - 3500 ppm  - *highest average concentration for any 8-hours period*
 

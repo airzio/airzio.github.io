@@ -12,26 +12,40 @@ $$SO_2$$ may cause breathing problems and lung damage.
 
 ## Regulatory levels
 
-- **U.S. EPA**
-  - 0.03 ppm - *highest average concentration for any 1-year period*
-  - 0.14 ppm - *highest average concentration for any 24-hours period, not to be exceeded more than once a year*
+### Regulations for industrial environments
+
 - **OSHA**:
   - 5 ppm - *highest average concentration for any 8-hours period*
 - **MAK**
   - 0.5 ppm - *highest average concentration for any 8-hours period*
   - 1 ppm - *highest average concentration for any 8-hours period, never to be exceeded*
 
+### Outdoor air regulatory levels
+
+- **U.S. EPA**
+  - 0.03 ppm - *highest average concentration for any 1-year period*
+  - 0.14 ppm - *highest average concentration for any 24-hours period, not to be exceeded more than once a year*
+
 ## Reference levels
 
+### Reference levels for industrial environments
 - **NIOSH**:
   - 2 ppm - *highest average concentration for any 8-hours period*
   - 5 ppm - *highest average concentration for any 15-mins period*
-- **WHO**:
-  - 0.048 ppm - *highest average concentration for any 24-hours period*
-  - 0.012 ppm - *highest average concentration for any 1-year period*
 - **ACGIH**
   - 2 ppm - *highest average concentration for any 8-hours period*
   - 5 ppm - *highest average concentration for any 15-mins period*
+
+### General reference levels
+
+- **ASHRAE**
+  - 80 $$\mu g/m^3$$ - *average exposure for 1 year*
+- **WHO**:
+  - 0.048 ppm - *highest average concentration for any 24-hours period*
+  - 0.012 ppm - *highest average concentration for any 1-year period*
+
+### Indoor residential reference levels
+
 - **Canadian regulations**
   - 0.38 ppm - *highest average concentration for any 5-min period*
   - 0.019 ppm - *highest average concentration for any 8-hours period*
