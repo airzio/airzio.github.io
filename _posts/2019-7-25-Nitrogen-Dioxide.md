@@ -24,6 +24,9 @@ When combined with water in the atmosphere, Nitrogen Dioxide forms Nitric acid a
 - **MAK**
   - 5 ppm - *highest average concentration for any 8-hours period*
   - 10 ppm - *highest average concentration for any 5-min period*
+- **GOST 12.1.005-88 Occupational safety standards system. General sanitary requirements for working zone air**
+  - 2 $$\mu g/m^3$$ - *highest permissible concentration*
+  - 5 $$\mu g/m^3$$ - for all $$NO_x$$ combined - *highest permissible concentration*
 
 ### Outdoor air regulatory levels
 

@@ -13,11 +13,16 @@ Permissible levels of $$CO$$ in the indoor air is very low due to it's toxicity.
 
 ### Regulations for industrial environments
 
-- **OSHA**:
+- **OSHA**
   - **PEL** = 50 ppm (TWA) - *highest average concentration for any 8-hours period*
 - **MAK**
   - 30 ppm - *highest average concentration for any 8-hours period*
   - 60 ppm - *highest average concentration for any 30-min period*
+- **GOST 12.1.005-88 Occupational safety standards system. General sanitary requirements for working zone air**
+  - 20 $$\mu g/m^3$$ - *highest permissible concentration*
+  - 50 $$\mu g/m^3$$ - *highest permissible concentration for 1-hour exposure. Not less than 2 hours prior repetitive exposure*
+  - 100 $$\mu g/m^3$$ - *highest permissible concentration for 30-minutes exposure. Not less than 2 hours prior repetitive exposure*
+  - 200 $$\mu g/m^3$$ - *highest permissible concentration for 15-minutes exposure. Not less than 2 hours prior repetitive exposure*
 
 ### Outdoor air regulatory levels
 
