@@ -29,6 +29,7 @@ $$SO_2$$ may cause breathing problems and lung damage.
 ## Reference levels
 
 ### Reference levels for industrial environments
+
 - **NIOSH**:
   - 2 ppm - *highest average concentration for any 8-hours period*
   - 5 ppm - *highest average concentration for any 15-mins period*
@@ -50,4 +51,4 @@ $$SO_2$$ may cause breathing problems and lung damage.
   - 0.38 ppm - *highest average concentration for any 5-min period*
   - 0.019 ppm - *highest average concentration for any 8-hours period*
 
-There are dedicated Nitrogen Dioxide sensors available mostly for industrial use. Indoor Air Quality sensors are used for personal applications. Such sensors capable of sensing a wide range of pollutants. The downside of most of the air quality sensors is that they are unable to detect separate gas concentrations because they react on all pollutants at once and output cumulative reading in some air quality units. Nevertheless, it is recommended to install Air Quality Detectors in living and working premisses .
+There are dedicated Sulfur Dioxide sensors available mostly for industrial use. Indoor Air Quality sensors are used for personal applications. Such sensors capable of sensing a wide range of pollutants. The downside of most of the air quality sensors is that they are unable to detect separate gas concentrations because they react on all pollutants at once and output cumulative reading in some air quality units. Nevertheless, it is recommended to install Air Quality Detectors in living and working premisses.
