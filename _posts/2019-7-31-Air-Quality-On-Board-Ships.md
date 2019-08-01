@@ -52,17 +52,36 @@ It should be noted that each standard sets its own acceptable content levels pol
 
 During the research the measured air quality parameters were compared against the following reference standard levels:
 
-<table>
-<tr><th>Substance</th>      <th>WHO</th>                        <th>ASHRAE</th>          <th>S. Korea</th></tr>
-<tr><td>TVOC    </td>       <td></td>                           <td></td>                <td>500 $$mg/m^3$$</td></tr>
-<tr><td>Toluene </td>       <td>260 $$mg/m^3$$ [1 w avg]</td>  <td></td>                <td>1000 $$mg/m^3$$</td></tr>
-<tr><td>Benzene </td>       <td></td>                           <td></td>                <td>30 $$mg/m^3$$</td></tr>
-<tr><td>Ethylbenzene </td>  <td></td>                           <td></td>                <td>360 $$mg/m^3$$</td></tr>
-<tr><td>Styrene </td>       <td>260 $$mg/m^3$$ [1 w avg]</td>  <td></td>                <td>300 $$mg/m^3$$</td></tr>
-<tr><td>Xylene </td>        <td>260 $$mg/m^3$$ [1 w avg]</td>  <td></td>                <td>700 $$mg/m^3$$</td></tr>
-<tr><td>Formaldehyde</td>   <td>100 $$mg/m^3$$ [30 m avg]</td> <td>100 $$mg/m^3$$</td>  <td>210 $$mg/m^3$$</td></tr>
-<tr><td>CO</td>             <td>10 ppm [8 h avg]</td>          <td>9 ppm [8 h. avg]</td><td>9 ppm </td></tr>
-<tr><td>$$CO_2$$</td>       <td></td>                           <td>1000 ppm</td>        <td>1000 ppm </td></tr>
-<tr><td>$$SO_2$$</td>       <td>50 $$mg/m^3$$</td>              <td>80 $$mg/m^3$$ [1 y avg]</td><td>0.05 ppm </td></tr>
-<tr><td>Particulate Matter</td> <td>120 $$mg/m^3$$ [30 m avg]</td><td>50 $$mg/m^3$$ </td><td>150 $$mg/m^3$$  </td></tr>
-</table>
+- **TVOC**
+  - **S. Korea** : 500 $$\mu g/m^3$$
+- **Toluene**
+  - **WHO** : 260 $$\mu g/m^3$$ - *1-week average*
+  - **S. Korea** : 1000 $$\mu g/m^3$$
+- **Benzene**
+  - **S. Korea** : 30 $$\mu g/m^3$$
+- **Ethylbenzene**
+  - **S. Korea** : 360 $$\mu g/m^3$$ - *1-week average*
+- **Styrene**
+  - **WHO** : 260 $$\mu g/m^3$$ - *1-week average*
+  - **S. Korea** : 300 $$\mu g/m^3$$
+- **Xylene**
+  - **S. Korea** : 700 $$\mu g/m^3$$
+- **Formaldehyde**
+  - **WHO** : 100 $$\mu g/m^3$$ - *30-mins average*
+  - **AHRAE** : 100 $$\mu g/m^3$$
+  - **S. Korea** : 210 $$\mu g/m^3$$
+- **CO**
+  - **WHO** : 10 ppm - *8-hours average*
+  - **AHRAE** : 9 ppm - *8-hours average*
+  - **S. Korea** : 10 ppm
+- **$$CO_2$$**
+  - **AHRAE** : 1000 ppm
+  - **S. Korea** : 1000 ppm
+- **$$SO_2$$**
+  - **WHO** : 50 $$\mu g/m^3$$ 
+  - **AHRAE** : 80 $$\mu g/m^3$$ - *1-year average*
+  - **S. Korea** : 0.05 ppm
+- **Particulate Matter**
+  - **WHO** : 120 $$\mu g/m^3$$ - *30-mins average*
+  - **AHRAE** : 50 $$\mu g/m^3$$
+  - **S. Korea** : 150 $$\mu g/m^3$$  

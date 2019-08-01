@@ -7,7 +7,7 @@ comments: true
 The study of air quality in the ship's living cabin had been carried out.
 For the purpose of the study the Air Quality Regulator was designed and created. This device primary features are measuring and adjusting the parameters of air quality in the living premises by the following criteria: total quality in CO2 equivalent units, carbon dioxide content and hydrocarbon content.
 
-![Air Quality Regulator structural design][{{ site.baseurl }}/images/Air_Quality_Regulator.png]
+![Air Quality Regulator structural design](https://airz.io/images/Air_Quality_Regulator.png)
 
 The device was tested for two months on board a gas carrier vessel which carried propylene. Measurements were made in the test cabin cabins and compared with outdoor air.
 
