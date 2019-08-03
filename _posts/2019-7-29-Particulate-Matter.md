@@ -50,6 +50,9 @@ Particulate Matter concentration limitations are set for two classes of particle
 
 ### Indoor residential reference levels
 
+- **South Korea**
+  - 150 $$\mu g/m^3$$
+
 - **Canadian regulations**
   - **PM2.5**
     - 0.1 $$mg/m^3$$ - *highest average concentration for any 1-hour period*

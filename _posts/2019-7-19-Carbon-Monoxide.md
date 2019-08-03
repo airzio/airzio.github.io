@@ -53,6 +53,9 @@ Permissible levels of $$CO$$ in the indoor air is very low due to it's toxicity.
 
 ### Indoor residential reference levels
 
+- **South Korea**
+  - 10 ppm
+
 - **Canadian regulations**
   - 25 ppm - *highest average concentration for any 1-hour period*
   - 11 ppm - *highest average concentration for any 8-hours period*

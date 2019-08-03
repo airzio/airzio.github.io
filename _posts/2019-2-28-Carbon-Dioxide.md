@@ -46,6 +46,9 @@ Various organizations state standards for $$CO_2$$ concentrations if the indoor 
 
 ### Indoor residential reference levels
 
+- **South Korea**
+  - 1000 ppm
+
 - **Canadian regulations**
   - 3500 ppm  - *highest average concentration for any 8-hours period*
 

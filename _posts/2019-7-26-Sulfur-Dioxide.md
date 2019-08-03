@@ -47,6 +47,9 @@ $$SO_2$$ may cause breathing problems and lung damage.
 
 ### Indoor residential reference levels
 
+- **South Korea**
+  - 0.05 ppm
+
 - **Canadian regulations**
   - 0.38 ppm - *highest average concentration for any 5-min period*
   - 0.019 ppm - *highest average concentration for any 8-hours period*
