@@ -4,13 +4,13 @@ title: Modern microclimate control
 comments: true
 ---
 
-Safe and comfort microclimate in living and working premisses is crucially important for human health and mental ability. Optimal performance at work and proper rest at home is not possible without clean air of comfort temperature and humidity.
+Safe and comfortable microclimate in living and working premisses is crucially important for human health and mental ability. Optimal performance at work and proper rest at home is not possible without clean air of comfort temperature and humidity.
 
-Modern microclimate control concepts are general for various types of inhabited premisses, included ones of transport vehicles, but safe and comfort levels are governed by different standards and regulations depending on the type and purpose of the room or compartment.
+Modern microclimate control concepts are general for various types of inhabited premises, included ones of transport vehicles, but safe and comfort levels are governed by different standards and regulations depending on the type and purpose of the room or compartment.
 
 There are a number of structural and operational requirements for microclimate and ventilation systems, which are defined in international standards [1-4] and national standards and regulations. The microclimate of the premises should be maintained not only comfortable but first of all safe. Microclimate safety means the compliance of temperature, humidity, mobility and gas composition of air with international standards and norms. The requirements for measuring the gas composition of the air are established by the international standards ISO16000-1 - ISO16000-38, which regulate the methods of measuring the content of various contaminants in the air. A new standard - ISO / FDIS Standard 16000-40 Indoor air quality management system is in the process of being approved.
 
-Let take a look at theoretical principles for the control of the microclimate which developed by various scientific schools.
+Let's take a look at theoretical principles for the control of the microclimate which developed by various scientific schools.
 
 The peculiarity of the microclimate concept, proposed by V. Golikov [5], is to define a human body as an object of the control. Accordingly, the temperature, humidity and air velocity of the air act as a controlling influences on a person's well-being. From the standpoint of this concept, the characteristics of the microclimate of the premises were investigated and a generalized mathematical model of human adaptation processes was developed.
 

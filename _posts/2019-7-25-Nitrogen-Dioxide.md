@@ -30,8 +30,16 @@ When combined with water in the atmosphere, Nitrogen Dioxide forms Nitric acid a
 
 ### Outdoor air regulatory levels
 
-  - **U.S. EPA**
-  - 0.05 ppm - *highest average concentration for any 1-year period*
+- **U.S. EPA**
+  - 100 ppb (188 $$\mu g/m^3$$) - *highest average concentration for any 1-year period*
+  - 0.053 ppm - *highest average concentration for any 1-year period*
+
+- **California**
+  - 0.18 ppm (399 $$\mu g/m^3$$) - *highest average concentration for any 1-year period*
+  - 0.03 ppm (57 $$\mu g/m^3$$) - *highest average concentration for any 1-year period*
+
+- **Japan**
+  - 0.06 ppm - *highest average concentration for any 24-hours period*
 
 ## Reference levels
 
@@ -59,5 +67,6 @@ When combined with water in the atmosphere, Nitrogen Dioxide forms Nitric acid a
 - **Canadian regulations**
   - 0.25 ppm - *highest average concentration for any 1-hour period*
   - 0.05 ppm - *highest average concentration for any 8-hours period*
+
 
 There are dedicated Nitrogen Dioxide sensors available mostly for industrial use. Indoor Air Quality sensors are used for personal applications. Such sensors capable of sensing a wide range of pollutants. The downside of most of the air quality sensors is that they are unable to detect separate gas concentrations because they react on all pollutants at once and output cumulative reading in some air quality units. Nevertheless, it is recommended to install Air Quality Detectors in living and working premisses .

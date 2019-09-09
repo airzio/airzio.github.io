@@ -30,6 +30,18 @@ Particulate Matter concentration limitations are set for two classes of particle
   - **PM10**
     - 150 $$\mu g/m^3$$  - *highest average concentration for any 24-hours period*
 
+- **California**
+  - **PM2.5**
+    - 12 $$\mu g/m^3$$ - *the average concentration for any 1-year period which not to be exceeded*
+  - **PM10**
+    - 50 $$\mu g/m^3$$  - *the average concentration for any 24-hours period which not to be exceeded*
+    - 20 $$\mu g/m^3$$  - *the average concentration for any 1-year period which not to be exceeded*
+
+- **Japan**
+  - **PM2.5**
+    - 15 $$\mu g/m^3$$ - *highest average concentration for any 1-year period*
+    - 35 $$\mu g/m^3$$ - *highest average concentration for any 24-hours period*
+
 ## Reference levels
 
 ### Reference levels for industrial environments
@@ -57,5 +69,7 @@ Particulate Matter concentration limitations are set for two classes of particle
   - **PM2.5**
     - 0.1 $$mg/m^3$$ - *highest average concentration for any 1-hour period*
     - 0.04 $$mg/m^3$$ - *highest average concentration for long term exposure*
+
+
 
 Particulate Matter sensors are gaining more popularity currently, mostly as part of Air Quality Monitoring system. Such system indicate the how polluted the air is and useful in determining the effectiveness of indoor ventilation and filtration.

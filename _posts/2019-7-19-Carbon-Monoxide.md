@@ -30,6 +30,14 @@ Permissible levels of $$CO$$ in the indoor air is very low due to it's toxicity.
   - 9 ppm - *highest average concentration for any 8-hours period, not to be exceeded more than once a year*
   - 35 ppm - *highest average concentration for any 1-hour period, not to be exceeded more than once a year*
 
+- **California**
+  - 9 ppm (10 $$mg/m^3$$) - *highest average concentration for any 8-hours period, not to be exceeded more than once a year*
+  - 20 ppm (23 $$mg/m^3$$) - *highest average concentration for any 1-hour period, not to be exceeded more than once a year*
+
+- **Japan**
+  - 10 ppm - *highest average concentration for any 24-hours period*
+  - 20 ppm - *highest average concentration for any 8-hours period*
+
 ## Reference levels
 
 ### Reference levels for industrial environments

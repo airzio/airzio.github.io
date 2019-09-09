@@ -23,8 +23,18 @@ $$SO_2$$ may cause breathing problems and lung damage.
 ### Outdoor air regulatory levels
 
 - **U.S. EPA**
-  - 0.03 ppm - *highest average concentration for any 1-year period*
+  - 75 ppb (196 $$\mu g/m^3$$) - *highest average concentration for any 1-hours period, not to be exceeded*
+  - 0.5 ppm (1300 $$\mu g/m^3$$) - *highest average concentration for any 3-hours period, not to be exceeded*
   - 0.14 ppm - *highest average concentration for any 24-hours period, not to be exceeded more than once a year*
+  - 0.03 ppm - *highest average concentration for any 1-year period*
+
+- **California**
+  - 0.25 ppm (655 $$\mu g/m^3$$) - *highest average concentration for any 1-hours period, not to be exceeded*
+  - 0.04 ppm (105 $$\mu g/m^3$$) - *highest average concentration for any 24-hours period, not to be exceeded*
+
+- **Japan**
+  - 0.04 ppm - *highest average concentration for any 24-hours period*
+  - 0.1 ppm - *highest average concentration for any 1-hours period*
 
 ## Reference levels
 
