@@ -16,9 +16,9 @@ $$w_c=2.5 \times 10^{-4} t_B^2+1.33 \times 10^{-3}t_B+0.983$$
 
 $$PMV=A_0(A_1+A_2d_n+A_3t_p+A_4t_n)$$
 
-$$A_0=0.352e^{-0.036{M_T \over F_{DU} }}+0.032$$
+$$A_0=0.352e^{-0.036{M_T \over F_{DU} } }+0.032$$
 
-$$A_1=0.39e^{1-1.33\eta}{M_T \over F_{DU} }+5.98-{ {35.7-0.0275(1-\eta){M_T \over F_{DU} }} \over {0.18I} } \times \Big[ 1-{1 \over {A_5} } \Big]$$
+$$A_1=0.39e^{1-1.33\eta}{M_T \over F_{DU} }+5.98-{ {35.7-0.0275(1-\eta){M_T \over F_{DU} } } \over {0.18I} } \times \Big[ 1-{1 \over {A_5} } \Big]$$
 
 $$A_2=411+2.32{M_T \over F_{DU} }$$
 
@@ -49,8 +49,8 @@ $$b_1=4.23v_n-0.31$$
 $$\begin{cases}
 {dt_n \over d\tau}={ {Q_{np}+Q_{ex}+Q_{h}+Q_{f}-Q_{yx} } \over {c_p\rho_bV_n} }\\
 {dd_n \over d\tau}={ {G_{np}+G_{ex}+G_{h}-G_{yx} } \over {\rho_bV_n} }\\
-{dV_n \over d\tau}=\Big({ {{V_{np}+{V_{np}S_{np} \over S_n} \over k_f}-V_{n} } }\Big)k_f^{-2}\\
-{dt_f \over d\tau}={F_f\big[{\alpha_bt_n+(K_f+\alpha_n)t_C-(\alpha_b+K_f+\alpha_n)t_f}\big] \over {c_fm_f10^{-3} }}\\
+{dV_n \over d\tau}=\Big({ { {V_{np}+{V_{np}S_{np} \over S_n} \over k_f}-V_{n} } }\Big)k_f^{-2}\\
+{dt_f \over d\tau}={F_f\big[{\alpha_bt_n+(K_f+\alpha_n)t_C-(\alpha_b+K_f+\alpha_n)t_f}\big] \over {c_fm_f10^{-3} } }\\
 \end{cases}$$
 
 $$\begin{cases}
