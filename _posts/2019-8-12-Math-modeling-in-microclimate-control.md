@@ -25,7 +25,7 @@ The dependence of the heart rate on the ambient temperature for a split non-adap
 
 $$w_c=2.5 \times 10^{-4} t_B^2+1.33 \times 10^{-3}t_B+0.983$$
 
-Empirical dependencies of the PMV comfort index are obtained from the generalized Finger equation for air velocity from 0.1 m / s to 0.3 m / s and relative humidity in the range of 30% to 70%
+Empirical dependencies of the PMV comfort index are obtained from the generalized Fanger equation for air velocity from 0.1 m / s to 0.3 m / s and relative humidity in the range of 30% to 70%
 
 $$PMV=A_0(A_1+A_2d_n+A_3t_p+A_4t_n)$$
 
@@ -53,7 +53,7 @@ Where $$t_M$$is the temperature of the wet thermometer;
 
 $$PT_C={ {t_p+12.1+(1.7v_n^{0.7}+0.9)t_n}\over{1.7v_n^{0.7}+1.9} }$$ - dry resultive temperature;
 
-$$t_sh$$ - температура шарового термометру;
+$$t_sh$$ - temperature of shpere thermometer;
 
 $$t_p=\sqrt[4]{(t_{sh}+273)^4+2.5\sqrt{v_n}(t_{sh}-t_n)\times10^8-273}$$
 
