@@ -24,11 +24,14 @@ According to standard, PMV may be used for prediction of mean vote of significan
 
 The prediction calculation, is based on the thermal balance of the body - equality of the heat production in the body and heat loss to the environment. Human thermoregulatory system is capable of adjusting the temperature of the skin and sweat secretion in response to the change of ambient conditions.
 
-$$PMV=\Big[ 0.303 e^{-0.036{M} } + 0.028 \Big] \times \Big[ (M - W) - 3.05 \times 10^{-3} \times [5733 - 6.99⋅(M - W) - p_a] - 0.42⋅[(M - W) - 58.12] - 1.7⋅10^{-5}⋅M⋅(5867 - p_a) - 0.0014⋅M⋅(34 - t_a) -3.96⋅10^{-8}⋅f_{cl}⋅\Big[ (t_{cl}+273)^4 - (t_r+273)^4 \Big] - f_{cl}⋅h_c⋅(t_{cl}-t_a) \Big]$$
+$$PMV=\Big[ 0.303 e^{-0.036{M} } + 0.028 \Big] \times 
+\Big[ (M - W) - 3.05 \times 10^{-3} \times [5733 - 6.99⋅(M - W) - p_a] - 
+0.42⋅[(M - W) - 58.12] - 1.7⋅10^{-5}⋅M⋅(5867 - p_a) - 0.0014⋅M⋅(34 - t_a) - 
+3.96⋅10^{-8}⋅f_{cl}⋅\Big[ (t_{cl}+273)^4 - (t_r+273)^4 \Big] - f_{cl}⋅h_c⋅(t_{cl}-t_a) \Big]$$
 
 where
 
-t_{cl} = 35.7−0.028⋅(M − W) − I⋅\Big[3.96⋅10^{-8}⋅f_{cl}⋅\Big[ (t_{cl}+273)^4 - (t_r+273)^4 \Big] + f_{cl}⋅h_c⋅(t_{cl}-t_a) \Big],
+$$t_{cl} = 35.7−0.028⋅(M − W) − I⋅\Big[3.96⋅10^{-8}⋅f_{cl}⋅\Big[ (t_{cl}+273)^4 - (t_r+273)^4 \Big] + f_{cl}⋅h_c⋅(t_{cl}-t_a) \Big]$$,
 
 $$h_c=\begin{cases}2.38⋅|t_{cl} - t_a|^0.25 &\text for 2.38⋅|t_{cl} - t_a|^0.25 > 12.1⋅sqrt{v_{ar}} \\ 12.1⋅sqrt{v_{ar}  &\text for 2.38⋅|t_{cl} - t_a|^0.25 < 12.1⋅sqrt{v_{ar}} \end{cases}$$,
 
