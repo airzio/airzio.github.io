@@ -15,7 +15,7 @@ The internal capacity of the body can also be determined depending on the heart 
 
 $$P_T=aw_c^2+bw_c+c$$
 
-According to VA Golikov's calculations, the coefficients of the equation depend on the body weight. Then the equation takes the form:
+According to V.A. Golikov's calculations, the coefficients of the equation depend on the body weight. Then the equation takes the form:
 
 $$P_T=(12w_c^2-27.8w_c+18.7)m_T$$
 
@@ -70,7 +70,7 @@ $$b_0=\begin{cases}12.8+7.6ln v_n &\text 0.15 \leq v_n \leq 3.5 m/s \\17.7+3.9 l
 $$b_1=4.23v_n-0.31$$
 
 From these formulas it is possible to obtain formulas for calculating air parameters at a given value of the resultant temperature and to use them for calculating the task in the comfort controllers.
-A mathematical model of the microclimate of a ship's premises with respect to four variables is presented in another paper by VA Golikov:
+A mathematical model of the microclimate of a ship's premises with respect to four variables is presented in another paper by V.A. Golikov:
 
 $$\begin{cases}
 {dt_n \over d\tau}={ {Q_{np}+Q_{ex}+Q_{h}+Q_{f}-Q_{yx} } \over {c_p\rho_bV_n} }\\
