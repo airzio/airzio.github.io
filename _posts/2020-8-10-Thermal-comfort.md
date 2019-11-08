@@ -33,22 +33,22 @@ where
 
 $$t_{cl} = 35.7−0.028⋅(M − W) − I⋅\Big[3.96⋅10^{-8}⋅f_{cl}⋅\Big[ (t_{cl}+273)^4 - (t_r+273)^4 \Big] + f_{cl}⋅h_c⋅(t_{cl}-t_a) \Big]$$
 
-$$h_c=\begin{cases}2.38⋅|t_{cl} - t_a|^{0.25} &\text for &\text 2.38⋅|t_{cl} - t_a|^{0.25} > 12.1⋅sqrt{v_{ar}} \\
-12.1⋅sqrt{v_{ar}}  &\text for &\text 2.38⋅|t_{cl} - t_a|^{0.25} < 12.1⋅sqrt{v_{ar}} \end{cases}$$
+$$h_c=\begin{cases}2.38⋅|t_{cl} - t_a|^{0.25} &\text for &\text 2.38⋅|t_{cl} - t_a|^{0.25} > 12.1⋅\sqrt{v_{ar}} \\
+12.1⋅\sqrt{v_{ar}}  &\text for &\text 2.38⋅|t_{cl} - t_a|^{0.25} < 12.1⋅\sqrt{v_{ar}} \end{cases}$$
 
 $$f_{cl}=\begin{cases}1 + 1.29⋅I_{cl} &\text for &\text I_{cl} \leq 0.078 m^2⋅K/W \\
 1.05 + 0.645⋅I_{cl} &\text for &\text I_{cl} > 0.078 m^2⋅K/W \end{cases}$$
 
-M - the metabolic rate, ($$W/m^2$$)
-W - the effective mechanical power, ($$W/m^2$$)
-$$I_{cl}$$ - the clothing insulation, ($$m^2 ⋅ K/W$$)
-$$f_{cl}$$ - the clothing surface area factor
-$$t_a$$ - the air temperature, (°C)
-$$t_r$$ - the mean radiant temperature, (°C)
-$$v_{ar}$$ - the relative air velocity, (m/s)
-p_a - the water vapour partial pressure, (Pa)
-h_c - the convective heat transfer coefficient, $$[W/(m^2 ⋅ K)]$$
-$$t_{cl}$$ - the clothing surface temperature, (°C).
+M - the metabolic rate, ($$W/m^2$$)  
+W - the effective mechanical power, ($$W/m^2$$)  
+$$I_{cl}$$ - the clothing insulation, ($$m^2 ⋅ K/W$$)  
+$$f_{cl}$$ - the clothing surface area factor  
+$$t_a$$ - the air temperature, (°C)  
+$$t_r$$ - the mean radiant temperature, (°C)  
+$$v_{ar}$$ - the relative air velocity, (m/s)  
+p_a - the water vapour partial pressure, (Pa)  
+h_c - the convective heat transfer coefficient, $$[W/(m^2 ⋅ K)]$$  
+$$t_{cl}$$ - the clothing surface temperature, (°C).  
 
 Empirical dependencies of the PMV comfort index are obtained from the generalized Fanger equation for air velocity from 0.1 m / s to 0.3 m / s and relative humidity in the range of 30% to 70%
 
