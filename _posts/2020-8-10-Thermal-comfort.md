@@ -33,9 +33,9 @@ where
 
 $$t_{cl} = 35.7−0.028⋅(M − W) − I⋅\Big[3.96⋅10^{-8}⋅f_{cl}⋅\Big[ (t_{cl}+273)^4 - (t_r+273)^4 \Big] + f_{cl}⋅h_c⋅(t_{cl}-t_a) \Big]$$
 
-$$h_c = \begin{cases}2.38⋅(t_{cl} - t_a)^0.25 \text for 2.38⋅(t_{cl} - t_a)^0.25 > 12.1⋅sqrt{v_{ar}} \\ 12.1⋅sqrt{v_{ar}  \text for 2.38⋅(t_{cl} - t_a)^0.25 < 12.1⋅sqrt{v_{ar}} \end{cases} $$
+$$h_c=\begin{cases}2.38⋅(t_{cl} - t_a)^0.25 &\text for 2.38⋅(t_{cl} - t_a)^0.25 > 12.1⋅sqrt{v_{ar}} \\ 12.1⋅sqrt{v_{ar}}  \text for 2.38⋅(t_{cl} - t_a)^0.25 < 12.1⋅sqrt{v_{ar}} \end{cases} $$
 
-$$f_{cl}=\begin{cases} 1 + 1.29⋅I_{cl} &\text for I_{cl} \leq 0.078 m^2⋅K/W \\ 1.05 + 0.645⋅I_{cl} &\text for I_{cl} > 0.078 m^2⋅K/W end{cases}$$
+$$f_{cl}=\begin{cases}1 + 1.29⋅I_{cl} &\text for I_{cl} \leq 0.078 m^2⋅K/W \\ 1.05 + 0.645⋅I_{cl} &\text for I_{cl} > 0.078 m^2⋅K/W \end{cases}$$
 
 M - the metabolic rate, ($$W/m^2$$)
 W - the effective mechanical power, ($$W/m^2$$)
